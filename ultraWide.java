@@ -1,5 +1,4 @@
 // Created by tirel22
-import org.codehaus.groovy.control.messages.WarningMessage;
 
 import javax.swing.*;
 import java.awt.*;
